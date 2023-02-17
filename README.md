@@ -2,7 +2,7 @@
 
 Turkish NER and Span dataset from customer reviews about supplemen and vitamin products. This dataset is scraped from Vitaminler.com.
 
-This dataset is a multi-purpose NLU dataset containing customer reviews with entity and span annotations. Each dataset instance contains 
+This dataset is a multi-purpose Turkish NLU dataset containing customer reviews with entity and span annotations. Each dataset instance contains 
 
 - a customer review
 - a list of annotated entities and spans
@@ -69,11 +69,3 @@ Distribution of span tags:
 
 All annotations are done by [Co-one](https://co-one.co/). many thanks to them for their contributions. 
 This work is supported by Google Developer Experts Program. Part of Duygu 2023 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
-
-
-
-# Vitaminler ve Takviye İlaçlar NER ve Span Veriseti
-
-
-
-
