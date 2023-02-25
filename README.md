@@ -68,4 +68,4 @@ Distribution of span tags:
 
 
 All annotations are done by [Co-one](https://co-one.co/). many thanks to them for their contributions. 
-This work is supported by Google Developer Experts Program. Part of Duygu 2023 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
+This work is supported by Google Developer Experts Program. Part of Duygu 2022 Fall-Winter collection, "Turkish NLP with Duygu"/ "Duygu'yla Türkçe NLP". All rights reserved.
